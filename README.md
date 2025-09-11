@@ -4,7 +4,7 @@
 
 😊 **About me**
 
-- 👨‍🎓 A 17-year-old student
+- 👨‍🎓 A 18-year-old student
 - 🌐 Languages: English, 中文, 日本語
 
 🎄 **Skills**
