@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LukasHe0908&show_icons=true&include_all_commits=false" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=LukasHim&show_icons=true&include_all_commits=false" />
 </a>
 
 😊 **About me**
@@ -17,4 +17,4 @@
 
 📈 **Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasHe0908&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasHim&layout=compact)
